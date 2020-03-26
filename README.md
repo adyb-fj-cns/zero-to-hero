@@ -6,7 +6,7 @@ Zero to Hero is a set of basic (opinionated) guides on various aspects of modern
 ## Introduction
 This guide serves mainly as a getting started guide and will provide various links out to other guides/examples.
 
-## Creating pipleines
+## Creating pipelines
 
 ### Intro
 Typical pipelines includes the following elements
