@@ -129,4 +129,6 @@ TODO!
 
 Docker Links
 * https://github.com/docker/awesome-compose
+* https://github.com/dotnet-architecture/eShopOnContainers
+
 
