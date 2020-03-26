@@ -77,6 +77,15 @@ A range of CI/CD systems are available via Cloud Vendors, CI/CD SaaS Vendors, Se
 * Clair
 * Aqua Trivy
 * Aqua Microscanner
+* Aqua Kube Bench
+* Aqua Docker Bench
+* Aqua Kube Hunter
+
+Links
+* https://docs.gitlab.com/ee/user/application_security/container_scanning/
+* https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Security
+* https://gitlab.com/gitlab-org/security-products/dast
+* https://gitlab.com/gitlab-org/security-products/analyzers
 
 #### Clair
 
@@ -85,6 +94,9 @@ A range of CI/CD systems are available via Cloud Vendors, CI/CD SaaS Vendors, Se
 * https://medium.com/paloit/coreos-clair-part-2-installation-integration-558ec664cece
 * https://github.com/quay/clair/tree/release-2.0/contrib/k8s
 * https://github.com/quay/clair/tree/release-2.0
+* https://github.com/arminc/clair-local-scan
+* https://github.com/jgsqware/clairctl
+* https://medium.com/paloit/coreos-clair-part-2-installation-integration-558ec664cece
 
 ##### klar cli tool
 * https://github.com/optiopay/klar
@@ -97,6 +109,12 @@ A range of CI/CD systems are available via Cloud Vendors, CI/CD SaaS Vendors, Se
 #### Aqua Microscanner
 * https://github.com/aquasecurity/microscanner
 
+#### Aqua Kube Bench
+* https://github.com/aquasecurity/kube-bench
+
+#### Aqua Kube Hunter
+* https://github.com/aquasecurity/kube-hunter
+
 ### Testing
 * Unit testing
 * Integration testing
@@ -108,4 +126,7 @@ A range of CI/CD systems are available via Cloud Vendors, CI/CD SaaS Vendors, Se
 
 ## Creating microservices
 TODO!
+
+Docker Links
+* https://github.com/docker/awesome-compose
 
