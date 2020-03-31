@@ -131,4 +131,28 @@ Docker Links
 * https://github.com/docker/awesome-compose
 * https://github.com/dotnet-architecture/eShopOnContainers
 
+### Testing
+
+
+
+
+#### Functional Testing:
+
+* Unit Testing (required)
+* Integration Testing (required)
+* Smoke Testing
+* Regression Testing (required)
+* Sanity Testing
+* Acceptance Testing
+* End to End Testing (required)
+
+#### Non-functional Testing:
+
+* Performance Testing
+* Load Testing
+* Stress Testing
+* Security Testing (required)
+* Compliance Testing
+* Usability Testing
+
 
